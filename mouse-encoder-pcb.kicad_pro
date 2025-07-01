@@ -641,7 +641,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "mouse-encoder-pcb.step",
       "svg": "",
       "vrml": ""
     },
