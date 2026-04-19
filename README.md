@@ -1,5 +1,5 @@
 # mouse-encoder-pcb
-NOTE: The pcb has been ordered, but not tested yet.
+**Update, 2026/04/19:** PCB works perfectly, noise circuit excellent.
 
 Simple standalone mouse-wheel encoder pcb, including a noise filter, but incredibly, no LED.
 Designed to be VIK-friendly, and fits ALPS and TTC (and Kailh) encoders (e.g. ALPS EC10E1260502).
